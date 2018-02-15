@@ -11,7 +11,7 @@
               <a class="nav-link" href="#sobre"><button type="button" class="btn btn-outline-light">Sobre</button></a>
           </li>
           <li class="nav-item">
-              <a class="nav-link" href="#portfolio"><button type="button" class="btn btn-outline-light">Portfolio</button></a>
+              <a class="nav-link" href="#projetos"><button type="button" class="btn btn-outline-light">Projetos</button></a>
           </li>
           <li class="nav-item">
               <a class="nav-link" href="#contato"><button type="button" class="btn btn-outline-light">Contato</button></a>
