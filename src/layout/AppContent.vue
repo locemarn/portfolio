@@ -113,9 +113,9 @@
             <p>Quer entrar em contato comigo?? Seja para solicitar mais informações sobre minha pessoa, minha experiência, conversar ou filosofar sobre a vida. Sinta-se livre para deixar mensagem a qualquer momento.</p>
             <p>Prometo responder!</p>
             <p>Você pode também pegar meu currículo no botão abaixo.</p>
-            <!-- <p>Nota: Favor, não enviar spam!! Agradeço a colaboração.</p> -->
-            <a href="./src/assets/curriculo.pdf" download class="btn btn-outline-dark  " role="button" aria-pressed="true" style="margin-bottom: 10px">Currículo</a>
-            <!-- <p style="color: black;"><small><strong><u> Para download do currículo, clique no botão acima.</u></strong></small></p> -->
+
+            <a href="https://drive.google.com/file/d/1tNcCZ0eZ6oHFTRBsgMT-GfC8Y88gqMRZ/view?usp=sharing"  target="_blank" class="btn btn-outline-dark  " role="button" aria-pressed="true" style="margin-bottom: 10px">Currículo</a>
+
           </div>
         </div>
       </div>
