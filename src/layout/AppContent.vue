@@ -22,7 +22,7 @@
         <div class="row" id="projetos" >
           <div class="col-xs-12 col-md-12 col-sm-10" id="port">
             <div>
-                <h4 class="font-weight-bold text-uppercase text-center">projetos</h4>
+                <h4 class="text-center">PROJETOS</h4>
             </div>
 
             <div class="col-md-10 offset-md-1 col-sm-8 offset-sm-2">
@@ -168,14 +168,14 @@ export default {
 /* sobre */
 #corpo {
   color: #717878;
-  margin-top: 5%;
+  margin-top: 5.2%;
   width: 100%;
 }
 
 #sobre {
   width: 100%;
   height: auto;
-  box-shadow: 1px 1px 15px #e2e5e5;
+  box-shadow: 1px 1px 20px #606868;
   margin-bottom: 1%;
 }
 
@@ -201,14 +201,14 @@ export default {
   width: 170px;
   height: 170px;
   border-radius: 50%;
-  box-shadow: 2px 2px 10px #e2e5e5;
+  box-shadow: 1px 1px 20px #606868;
 }
 
 /* projetos */
 
 #port {
   padding-top: 8%;
-  box-shadow: 1px 1px 15px #e2e5e5;
+  box-shadow: 1px 1px 20px #606868;
   padding-bottom: 8%;
   margin-bottom: 1%;
 }
@@ -222,7 +222,7 @@ export default {
 
 #contato {
   padding-top: 8%;
-  box-shadow: 1px 1px 15px #e2e5e5;
+  box-shadow: 1px 1px 20px #606868;
 }
 
 #contato-text {
