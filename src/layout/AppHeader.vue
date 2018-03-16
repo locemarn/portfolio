@@ -33,7 +33,7 @@ export default {
 /* header */
 #nbar {
   background: rgba(255,255,255,0.5);
-  box-shadow: 0 0 5px;
+  box-shadow: 0 0 5px #e6ffde;
 }
 #navbar {
   max-width: 100%;
